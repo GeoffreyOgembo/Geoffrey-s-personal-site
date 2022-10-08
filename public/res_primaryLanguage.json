@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Geoffrey Ogembo. Fictional person for preview purposes :) I'm working with  front-end framework React and Backend framework called Rails",
+      "description": "👋 I'm Geoffrey Ogembo. Fictional person for preview purposes :) I'm working with  front-end framework React and Backend framework called Rails, I am a passionate full-stuck engineer. I believe that in character, in manner, in style, in all things, the supreme excellence is simplicity. I am passionate in Software development, design and emerging technologies. I am a passionate full-stuck engineer. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -17,8 +17,9 @@
 
         
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/comics/comics.jpeg",
+          "images/portfolio/comics/comicbook.jpeg"
+          
         ],
         "url": "https://comic-books-app.vercel.app/",
         "technologies": [
@@ -41,8 +42,9 @@
         "startDate": "2022",
         "description": "The App can help one search for a movie by name or by Id, tab to the movie and see a brief description of it and also the category of the movie, the app is able to show the ratings of the movie,the status, and the official site.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/movies/movies.jpeg",
+          "images/portfolio/movies/Movie.jpg"
+         
         ],
         "url": "https://geoffreyogembo.github.io/Video-show-app",
         "technologies": [
@@ -85,37 +87,33 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Moringa School",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "23,May,2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Ruby on Rails,Reactjs"
         ],
         "technologies": [
           "REST API",
           "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Bootstrap"
+         
+          
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "KAGRIC",
+        "title": "Attachee",
+        "years": "09.2021- 12.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Frontend Introduction"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          
+          "CSS5",
           "JavaScript",
-          "DHTMLX Gantt"
+          "HTML5"
         ]
       }
     ]
