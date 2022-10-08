@@ -115,6 +115,41 @@
           "JavaScript",
           "HTML5"
         ]
+      },
+      {
+        "company": "Keroka computer College",
+        "title": "Microsoft Suit,Intro to Web Design",
+        "years": "23,May,2020 -01,9,2020 ",
+        "mainTech": [
+          "Introduction to web design"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS5",
+          "Spreadsheets",
+          "Presantation",
+          "Publisher",
+          "Access"
+         
+        ]
+      },
+      {
+        "company": "Gusii Water And Sanitation Company(GWASCO)",
+        "title": "Web Design Deeper",
+        "years": "05,09,2020 - 15,12,2020",
+        "mainTech": [
+          "More in Web Design"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap"
+         
+          
+        ]
       }
     ]
   }
+
+     
