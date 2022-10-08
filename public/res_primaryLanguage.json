@@ -1,0 +1,122 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Geoffrey Ogembo. Fictional person for preview purposes :) I'm working with  front-end framework React and Backend framework called Rails",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Comic Books Database App",
+        "startDate": "2022",
+        "description": "The intended use of this application is designed with the idea of someone who does not read comics in mind. Therefore, the best way to begin reading comics is to pick your favorite character or superhero and begin with those books. If you find someone else you are interested in, you can also search for their books.",
+
+        
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://comic-books-app.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-reactjs-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javacript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-5-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Video-show-app",
+        "startDate": "2022",
+        "description": "The App can help one search for a movie by name or by Id, tab to the movie and see a brief description of it and also the category of the movie, the app is able to show the ratings of the movie,the status, and the official site.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://geoffreyogembo.github.io/Video-show-app",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          
+          }
+          
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
