@@ -1,5 +1,5 @@
 @import '../src/scss/themes/theme-dark.scss';
-@import '../src/scss/themes/theme-light.scss';
+// @import '../src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
 
 html {
@@ -163,6 +163,7 @@ header h1 {
 
 .project-title-settings {
 	margin-top: 5%;
+	font-weight: bolder;
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
@@ -219,7 +220,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #080806;
 }
 
 .experience-icon {
@@ -244,8 +245,8 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
-	color: black;
+	background-color: #0c0a05 !important;
+	color: rgb(244, 234, 234);
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -410,6 +411,7 @@ footer {
 	color: white;
 	position: relative;
 	text-align: center;
+	font-weight: bolder;
 }
 
 footer a,

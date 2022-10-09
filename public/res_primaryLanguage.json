@@ -88,16 +88,20 @@
     "experience": [
       {
         "company": "Moringa School",
-        "title": "Front-End Developer",
+        "title": "Full-Stuck Developer",
         "years": "23,May,2022 - present",
         "mainTech": [
           "Ruby on Rails,Reactjs"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "Rails",
           "JavaScript",
-          "Bootstrap"
+          "Bootstrap",
+          "Ruby",
+          "Git",
+          "React"
+
          
           
         ]
