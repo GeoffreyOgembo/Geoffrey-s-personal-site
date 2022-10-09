@@ -61,14 +61,14 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Beach Resort App",
+        "startDate": "2022",
+        "description": "Is a beach-resort App which enables users to book for an accomodation in the resort,choose a room and order for meals.the App has all categories of rooms from VIP to ordinary ones!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/beach_resort/beach.jpeg",
+          "images/portfolio/beach_resort/resort.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "http://resortapp.vercel.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
