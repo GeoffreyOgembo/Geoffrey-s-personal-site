@@ -1,5 +1,5 @@
 @import '../src/scss/themes/theme-dark.scss';
-// @import '../src/scss/themes/theme-light.scss';
+@import '../src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
 
 html {
@@ -22,6 +22,7 @@ html {
 .title-styles {
 	font-family: 'Raleway', sans-serif;
 	font-size: 250%;
+	color: #f2f2ea;
 }
 
 .header-icon {
@@ -38,7 +39,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: rgb(80, 79, 77);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -74,7 +75,7 @@ header {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #262522;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -83,7 +84,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #f0eff1;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
@@ -110,6 +111,8 @@ header h1 {
 #about {
 	background: #fff;
 	overflow: hidden;
+	background: #353239;
+	
 }
 
 #about h1 {
@@ -117,8 +120,9 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: rgb(12, 11, 11);
 	text-align: center;
+	font-size: larger;
 }
 
 .foto img {
