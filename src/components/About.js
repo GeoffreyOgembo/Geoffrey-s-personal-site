@@ -17,6 +17,10 @@ class About extends Component {
 
     return (
       <section id="about">
+        {/* <div className={classes.h1}>
+            <h1 >I'm Cecilia</h1>
+        <a href="https://drive.google.com/file/d/1XwQYRl06QtuNPT8v4fHkbajk1ll9LTbi/view?usp=sharing" rel="opener noreferrer" target="_blank">VIEW CV   <FaArrowCircleDown /></a>
+          </div> */}
         <div className="col-md-12">
           <h1 style={{ color: "black" }}>
             <span>{sectionName}</span>

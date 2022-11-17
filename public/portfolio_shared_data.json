@@ -12,7 +12,23 @@
           "name": "instagram",
           "url": "https://www.instagram.com/geoffreyogembo/",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/geoffreyogembo0/",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/geoffrey-ogembo-1102a3238/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Gmail",
+          "url": "https://mail.google.com/mail/",
+          "class": "fab fa-email"
         }
+
       ],
       "image": "myProfile.jpg"
     },
@@ -30,7 +46,7 @@
         },
         {
           "name": "React",
-          "class": "devicon-angularjs-plain",
+          "class": "fab fa-react",
           "level": "80"
         },
         {
@@ -51,12 +67,17 @@
         },
         {
           "name": "C++",
-          "class": "devicon-C++-plain",
+          "class": "fab fa-c++",
           "level": "65"
         },
         {
-          "name": "Postgresql",
-          "class": "devicon-Postgresql-plain",
+          "name": "python",
+           "class": "fab fa-python",
+          "level": "65"
+        },
+        {
+          "name": "SQLite",
+          "class": "fab fa-SQLite",
           "level": "60"
         }
       ]
