@@ -76,8 +76,13 @@
           "level": "65"
         },
         {
-          "name": "SQLite",
-          "class": "fab fa-SQLite",
+          "name": "PostgreSQL",
+           "class": "fab fa-postgreSql",
+          "level": "65"
+        },
+        {
+          "name": "Github",
+          "class": "fab fa-github",
           "level": "60"
         }
       ]
