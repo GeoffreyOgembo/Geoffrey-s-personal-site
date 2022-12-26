@@ -24,9 +24,9 @@
           "class": "fab fa-linkedin"
         },
         {
-          "name": "Gmail",
-          "url": "https://mail.google.com/mail/",
-          "class": "fab fa-email"
+          "name": "Facebook",
+          "url": "https://www.facebook.com/",
+          "class": "fab fa-facebook"
         }
 
       ],
@@ -78,6 +78,16 @@
         {
           "name": "PostgreSQL",
            "class": "fab fa-postgreSql",
+          "level": "65"
+        },
+        {
+          "name": "Premavera P6",
+           "class": "fab fa-P6",
+          "level": "65"
+        },
+        {
+          "name": "Figma",
+           "class": "fab fa-Figma",
           "level": "65"
         },
         {

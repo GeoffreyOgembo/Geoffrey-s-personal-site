@@ -102,15 +102,28 @@
           "Bootstrap",
           "Ruby",
           "Git",
-          "React"
+          "React",
+          "Figam Wireframe"
 
          
           
         ]
       },
       {
+        "company": "Oracle Academy",
+        "title": "Virtual Students Bootcamp",
+        "years": "16.11.2022- 18.11.2022",
+        "mainTech": [
+          "Project Management using P6 Software"
+        ],
+        "technologies": [
+          
+          "premavera 6"
+          
+        ]
+      },
+      {
         "company": "KAGRIC",
-        "title": "Attachee",
         "years": "09.2021- 12.2021",
         "mainTech": [
           "Frontend Introduction"
